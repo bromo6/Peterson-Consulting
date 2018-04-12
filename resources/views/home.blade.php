@@ -30,7 +30,7 @@
             <div class="projectBack"></div>
             <div class="row bottomText my-5">
                 <div class="col text-center" style="margin-top:40px;">
-                    <h2 class="proText">Projects Including:</h2>
+                    <h2 class="proText">Projects Including</h2>
                 </div>
             </div>
             <div class="row miniText">
@@ -179,7 +179,7 @@
     </div>
     <div class="row topText my-5">
         <div class="col text-center">
-            <h2>Past/Current Clients:</h2>
+            <h2>Past/Current Clients</h2>
         </div>
     </div>
     <div class="row owlCaro my-5">

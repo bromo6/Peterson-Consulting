@@ -1,12 +1,17 @@
 .navBack {
-    background: #00003e;
+    background: white;
+    box-shadow: 5px 5px 10px #88888833;
 }
 .navText:hover{
-    color: white;
-    border-bottom: 1px solid white;
+    color: #0e3443;
+    border-bottom: 2px solid #855a1f;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
 }
 .navText {
-    color: white;
+    color: #0e3443;
+    font-weight: 600;
 }
 .aboutJum {
     background-image: url('');
@@ -14,7 +19,7 @@
 .projectBack {
     height: 500px;
     width: 100%;
-    background: #00003e;
+    background: #0e3443;
     transform: skewY(3deg);
     transform-origin: 0;
     position: absolute;
@@ -31,7 +36,7 @@
 .cardRow {
     background: transparent;
     border: 0px;
-    color: #b3990a;
+    color: #855a1f;
 }
 .rowHead {
     border: 0px;
@@ -41,15 +46,22 @@
     text-decoration: none;
 }
 .projectsInclude:hover {
-    color: yellow;
+    color: #ea8d0c;
     text-decoration: none;
 }
 .projectsInclude {
-    color: #b3990a;
+    color: #855a1f;
     font-size: 24px;
 }
 .proText {
-    color: #b3990a;
+    color: #855a1f;
+}
+h2 {
+    font-weight: 600;
+    margin-left: -95px;
+}
+.card-body {
+    margin-top: -35px;
 }
 .footText {
     color: white;
@@ -59,11 +71,18 @@
 #copy {
     margin-bottom: 15px;
 }
+.bottomPg {
+    margin-left: 613px;
+}
+.btmHome, .btmAbout {
+    margin-right: 7px;
+    padding-right: 7px;
+    border-right: 1px solid white;
+}
 footer {
-    background: #00003e;
+    background: #0e3443;
     height: 120px;
     margin-top: 75px;
     color: white;
-    padding-top: 10px;
-    padding-left: 15px;
+    padding-top: 30px;
 }

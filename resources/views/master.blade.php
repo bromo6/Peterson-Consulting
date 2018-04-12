@@ -11,12 +11,13 @@
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="/css/owl.carousel.min.css">
     <link rel="stylesheet" href="/css/owl.theme.default.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
     <title>@yield('title')</title>
 </head>
 
 <body>
-    <nav class="navbar navbar-expand navBack">
-        <a class="navbar-brand" href="/home">
+    <nav class="navbar navbar-expand navBack fixed-top">
+        <a class="navbar-brand" href="/">
             <img src="img/Peterson-Logo.png" />
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -37,26 +38,16 @@
         @yield('content')
     </div>
     <footer>
-        <div class="container-fluid px-0">
-            <div class="row">
-                <div class="col-2">
-                    <div class="row">
-                        <div class="col">
-                            <a class="footText" href="/home">Home</a>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col">
-                            <a class="footText" href="/about">About Us</a>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col">
-                            <a class="footText" href="/contact">Contact Us</a>
-                        </div>
-                    </div>
+        <div class="container-fluid px-0 text-center">
+            <div class="row ">
+                <div class="col bottomPg">
+                    <a class="footText btmHome" href="/home">Home</a>
+                    <a class="footText btmAbout" href="/about">About Us</a>
+                    <a class="footText btmContact" href="/contact">Contact Us</a>
                 </div>
-                <div class="col-8 offset-5">
+            </div>
+            <div class="row">
+                <div class="col">
                     <p id="copy">&#169; Peterson Consulting Group</p>
                 </div>
             </div>
