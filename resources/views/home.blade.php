@@ -1,5 +1,5 @@
 @extends('master') @section('title', 'Peterson Consulting') @section('content')
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+<div id="carouselExampleControls" class="carousel slide " data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img class="d-block" width="1440" height="800" src="http://gethiredfast.com/wp-content/uploads/2011/12/Get-Hired-Fast-Help-Me-Get-a-Job.jpg">
