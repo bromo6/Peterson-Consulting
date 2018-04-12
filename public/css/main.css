@@ -2,8 +2,68 @@
     background: #00003e;
 }
 .navText:hover{
-    color: yellow;
+    color: white;
+    border-bottom: 1px solid white;
 }
 .navText {
-    color: #b3990a ;
+    color: white;
+}
+.aboutJum {
+    background-image: url('');
+}
+.projectBack {
+    height: 500px;
+    width: 100%;
+    background: #00003e;
+    transform: skewY(3deg);
+    transform-origin: 0;
+    position: absolute;
+    margin-bottom: 50px;
+}
+.includingText {
+    position: relative;
+    margin-bottom: 160px;
+    margin-top: 95px;
+}
+.text {
+    font-size: 22px;
+}
+.cardRow {
+    background: transparent;
+    border: 0px;
+    color: #b3990a;
+}
+.rowHead {
+    border: 0px;
+    background: transparent;
+}
+.projectsInclude:focus {
+    text-decoration: none;
+}
+.projectsInclude:hover {
+    color: yellow;
+    text-decoration: none;
+}
+.projectsInclude {
+    color: #b3990a;
+    font-size: 24px;
+}
+.proText {
+    color: #b3990a;
+}
+.footText {
+    color: white;
+    font-size: 15px;
+    float: left;
+}
+#copy {
+    margin-bottom: 15px;
+}
+footer {
+    background: #00003e;
+    height: 120px;
+    margin-top: 75px;
+    color: white;
+    padding-top: 10px;
+    padding-left: 15px;
 }

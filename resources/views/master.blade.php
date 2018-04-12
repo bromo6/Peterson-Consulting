@@ -17,7 +17,7 @@
 <body>
     <nav class="navbar navbar-expand navBack">
         <a class="navbar-brand" href="/home">
-            <img src="" />
+            <img src="img/Peterson-Logo.png" />
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -25,7 +25,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
-                    <a class="nav-link navText" href="/contact">About Us <span class="sr-only">(current)</span></a>
+                    <a class="nav-link navText" href="/about">About Us <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link navText" href="/contact">Contact Us</a>
@@ -36,7 +36,32 @@
     <div class="container-fluid px-0">
         @yield('content')
     </div>
-
+    <footer>
+        <div class="container-fluid px-0">
+            <div class="row">
+                <div class="col-2">
+                    <div class="row">
+                        <div class="col">
+                            <a class="footText" href="/home">Home</a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <a class="footText" href="/about">About Us</a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <a class="footText" href="/contact">Contact Us</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-8 offset-5">
+                    <p id="copy">&#169; Peterson Consulting Group</p>
+                </div>
+            </div>
+        </div>
+    </footer>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
