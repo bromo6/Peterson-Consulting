@@ -22,6 +22,7 @@
 </div>
     <div class="row my-5 px-5">
         <div class="col text-center">
+            <h1>Title of paragraph</h1>
             <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti asperiores fuga quisquam consequuntur totam beatae dolorum consectetur enim sunt blanditiis ipsa dolores voluptatibus ea, reprehenderit, itaque dolor, molestias adipisci minima!</p>
         </div>
     </div>
@@ -35,7 +36,7 @@
             </div>
             <div class="row miniText">
                 <!--MAIN COLUMN 1  ----------------------------------------->
-                <div class="col-4">
+                <div class="col-3 main1">
                     <div class="row">
                         <div class="col">
                             <div id="accordion">
@@ -50,11 +51,9 @@
 
                                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                                         <div class="card-body">
-                                            <ul>
-                                                <li>Create the Vision</li>
-                                                <li>Agree on the Mission</li>
-                                                <li>Articulate Ambitions</li>
-                                            </ul>
+                                                <p> - Create the Vision</p>
+                                                <p> - Agree on the Mission</p>
+                                                <p> - Articulate Ambitions</p>
                                         </div>
                                     </div>
                                 </div>
@@ -68,11 +67,9 @@
                                     </div>
                                     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                                         <div class="card-body">
-                                            <ul>
-                                                <li>Deploy Goals</li>
-                                                <li>Identify Strategies</li>
-                                                <li>Establish Measures</li>
-                                            </ul>
+                                                <p> - Deploy Goals</p>
+                                                <p> - Identify Strategies</p>
+                                                <p> - Establish Measures</p>
                                         </div>
                                     </div>
                                 </div>
@@ -81,7 +78,7 @@
                     </div>
                 </div>
                 <!--MAIN COLUMN 2  -------------------------------------------->
-                <div class="col-4">
+                <div class="col-3 main2">
                     <div class="row">
                         <div class="col">
                             <div id="accordion2">
@@ -97,11 +94,9 @@
 
                                     <div id="collapseThree" class="collapse show" aria-labelledby="headingThree" data-parent="#accordion2">
                                         <div class="card-body">
-                                            <ul>
-                                                <li>Go to Market Strategies</li>
-                                                <li>Broken Identification and Qualification</li>
-                                                <li>Retail Introduction</li>
-                                            </ul>
+                                                <p> - Go to Market Strategies</p>
+                                                <p> - Broken Identification and Qualification</p>
+                                                <p> - Retail Introduction</p>
                                         </div>
                                     </div>
                                 </div>
@@ -115,11 +110,9 @@
                                     </div>
                                     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion2">
                                         <div class="card-body">
-                                            <ul>
-                                                <li>New Product Processes</li>
-                                                <li>Manufacturing Work Processes</li>
-                                                <li>New Product Launch Planning</li>
-                                            </ul>
+                                                <p> - New Product Processes</p>
+                                                <p> - Manufacturing Work Processes</p>
+                                                <p> - New Product Launch Planning</p>
                                         </div>
                                     </div>
                                 </div>
@@ -128,7 +121,7 @@
                     </div>
                 </div>
                 <!--MINI COLUMN 3  ----------------------------------------->
-                <div class="col-4">
+                <div class="col-3">
                     <div class="row">
                         <div class="col">
                             <div id="accordion3">
@@ -143,11 +136,9 @@
 
                                     <div id="collapseFive" class="collapse show" aria-labelledby="headingFive" data-parent="#accordion3">
                                         <div class="card-body">
-                                            <ul>
-                                                <li>Executive (C-Suite) Presentations</li>
-                                                <li>Professional Sales Training</li>
-                                                <li>Corporate Messaging</li>
-                                            </ul>
+                                                <p> - Executive (C-Suite) Presentations</p>
+                                                <p> - Professional Sales Training</p>
+                                                <p> - Corporate Messaging</p>
                                         </div>
                                     </div>
                                 </div>
@@ -161,11 +152,9 @@
                                     </div>
                                     <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion3">
                                         <div class="card-body">
-                                            <ul>
-                                                <li>Challenging Personnel Matter</li>
-                                                <li>Delegating and Managng Effectively</li>
-                                                <li>Priority Setting in Complex Environment</li>
-                                            </ul>
+                                                <p> - Challenging Personnel Matter</p>
+                                                <p> - Delegating and Managng Effectively</p>
+                                                <p> - Priority Setting in Complex Environment</p>
                                         </div>
                                     </div>
                                 </div>
@@ -187,24 +176,31 @@
         <div class="col-8 owl-carousel owl-one owl-theme">
             <div>
                 <a href="http://www.ey.com/">
-                    <img height="100" width="60" src="http://www.ey.com/ecimages/EY-logo-li.png" />
+                    <img height="100" width="50" src="http://www.ey.com/ecimages/EY-logo-li.png" />
                 </a>
             </div>
             <div>
-                <img height="100" width="60" src="https://pbs.twimg.com/profile_images/904939312076144640/QNtr-HbG_400x400.jpg" />
+                <a href="https://www.fonterra.com/nz/en.html">
+                    <img height="100" width="50" src="https://pbs.twimg.com/profile_images/904939312076144640/QNtr-HbG_400x400.jpg" />
+                </a>
             </div>
             <div>
-                <img height="100" width="60" src="https://pbs.twimg.com/profile_images/904939312076144640/QNtr-HbG_400x400.jpg" />
+                <a href="https://www.hartagriculture.com/">
+                    <img height="100" width="50" src="http://hart2hartfarm.org/wp-content/uploads/2017/01/hart2hart-farm-logo.png" />
+                </a>
             </div>
             <div>
-                <img height="100" width="60" src="https://pbs.twimg.com/profile_images/904939312076144640/QNtr-HbG_400x400.jpg" />
+                <a href="http://missiontexas.us/city-departments/city-secretary/minutes-and-agendas/medc/">
+                    <img height="100" width="50" src="https://pbs.twimg.com/profile_images/811745289174253568/kdtbtJsc_400x400.jpg" />
+                </a>
             </div>
             <div>
-                <img height="100" width="60" src="https://pbs.twimg.com/profile_images/904939312076144640/QNtr-HbG_400x400.jpg" />
+                <a href="https://www.modernimpact.com/">
+                    <img height="100" width="50" src="https://www.modernimpact.com/wp-content/uploads/2017/06/MI-Favicon-1.jpg" />
+                </a>
             </div>
-            <div>
-                <img height="100" width="60" src="https://pbs.twimg.com/profile_images/904939312076144640/QNtr-HbG_400x400.jpg" />
-            </div>
+
+
 
         </div>
         <div class="col-2"></div>

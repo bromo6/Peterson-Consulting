@@ -56,12 +56,24 @@ body {
 .proText {
     color: #855a1f;
 }
+h1 {
+    font-weight: 700;
+    margin-bottom: 30px;
+}
 h2 {
     font-weight: 600;
     margin-left: -95px;
 }
 .card-body {
     margin-top: -35px;
+    text-align: center;
+}
+.main1 {
+    margin-left: 124px;
+}
+.main2 {
+    margin-right: 70px;
+    margin-left: 20px;
 }
 .footText {
     color: white;
