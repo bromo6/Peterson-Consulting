@@ -1,0 +1,9 @@
+.navBack {
+    background: #00003e;
+}
+.navText:hover{
+    color: yellow;
+}
+.navText {
+    color: #b3990a ;
+}
