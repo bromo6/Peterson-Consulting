@@ -24,7 +24,7 @@ HOME
 -----------------------------
 ---------------------------*/
 .projectBack {
-    height: 500px;
+    height: 570px;
     width: 100%;
     background: #0e3443;
     transform: skewY(3deg);
@@ -83,7 +83,7 @@ h2 {
     margin-left: 20px;
 }
 .caroBtn {
-    margin-top: 330px;
+    margin-top: 410px;
     z-index: 50;
 }
 #typeTry1 {
@@ -96,6 +96,9 @@ h2 {
     margin-top: 300px;
     font-size: 30px;
     position: relative;
+    background: #000000a8;
+    width: 400px;
+    padding: 40px;
 }
 .carousel-inner {
     position: absolute;

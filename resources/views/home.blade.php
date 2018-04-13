@@ -35,7 +35,7 @@
             <div class="projectBack"></div>
             <div class="row bottomText my-5">
                 <div class="col text-center" style="margin-top:40px;">
-                    <h2 class="proText">Projects Including</h2>
+                    <h1 class="proText">Projects Including</h1>
                 </div>
             </div>
             <div class="row miniText">
@@ -90,8 +90,7 @@
                                     <div class="card-header rowHead" id="headingThree">
                                         <h5 class="mb-0">
                                             <button class="btn btn-link projectsInclude" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                                                Consumer Package Goods</br>
-                                                Business Development
+                                                CPG Business Development
                                             </button>
                                         </h5>
                                     </div>
@@ -172,7 +171,7 @@
     </div>
     <div class="row topText my-5">
         <div class="col text-center">
-            <h2>Past/Current Clients</h2>
+            <h1>Past/Current Clients</h1>
         </div>
     </div>
     <div class="row owlCaro my-5">
