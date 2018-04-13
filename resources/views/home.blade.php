@@ -1,28 +1,32 @@
 @extends('master') @section('title', 'Peterson Consulting') @section('content')
-<div id="carouselExampleControls" class="carousel slide " data-ride="carousel">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="d-block" width="1440" height="800" src="http://gethiredfast.com/wp-content/uploads/2011/12/Get-Hired-Fast-Help-Me-Get-a-Job.jpg">
+<div id="typeTry1">
+    <div id="carouselExampleControls" class="carousel slide " data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img class="d-block" width="1440" height="800" src="http://gethiredfast.com/wp-content/uploads/2011/12/Get-Hired-Fast-Help-Me-Get-a-Job.jpg">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block" width="1440" height="800" src="https://img.clipartxtras.com/9bccaae70873ae9ecf02e688e532fb56_company-meeting-cliparts-free-download-clip-art-free-clip-art-business-meeting-clipart-png_1024-750.jpeg">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block" width="1440" height="800" src="https://ak2.picdn.net/shutterstock/videos/6435242/thumb/4.jpg?i10c=img.resize">
+            </div>
         </div>
-        <div class="carousel-item">
-            <img class="d-block" width="1440" height="800" src="https://img.clipartxtras.com/9bccaae70873ae9ecf02e688e532fb56_company-meeting-cliparts-free-download-clip-art-free-clip-art-business-meeting-clipart-png_1024-750.jpeg">
-        </div>
-        <div class="carousel-item">
-            <img class="d-block" width="1440" height="800" src="...">
-        </div>
+        <a class="carousel-control-prev caroBtn" href="#carouselExampleControls" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon prev-next" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next caroBtn" href="#carouselExampleControls" role="button" data-slide="next">
+            <span class="carousel-control-next-icon prev-next" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
     </div>
-    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+    <div id="type1"></div>
 </div>
+
     <div class="row my-5 px-5">
         <div class="col text-center">
-            <h1>Title of paragraph</h1>
+            <h1 style="margin-top:450px;">Title of paragraph</h1>
             <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti asperiores fuga quisquam consequuntur totam beatae dolorum consectetur enim sunt blanditiis ipsa dolores voluptatibus ea, reprehenderit, itaque dolor, molestias adipisci minima!</p>
         </div>
     </div>
