@@ -3,13 +3,13 @@
     <div id="carouselExampleControls" class="carousel slide " data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="d-block" width="1440" height="800" src="http://gethiredfast.com/wp-content/uploads/2011/12/Get-Hired-Fast-Help-Me-Get-a-Job.jpg">
+                <img class="d-block" width="1440" height="800" src="https://images.pexels.com/photos/886465/pexels-photo-886465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
             </div>
             <div class="carousel-item">
-                <img class="d-block" width="1440" height="800" src="https://img.clipartxtras.com/9bccaae70873ae9ecf02e688e532fb56_company-meeting-cliparts-free-download-clip-art-free-clip-art-business-meeting-clipart-png_1024-750.jpeg">
+                <img class="d-block" width="1440" height="800" src="https://images.pexels.com/photos/515169/pexels-photo-515169.jpeg?auto=compress&cs=tinysrgb&h=350">
             </div>
             <div class="carousel-item">
-                <img class="d-block" width="1440" height="800" src="https://ak2.picdn.net/shutterstock/videos/6435242/thumb/4.jpg?i10c=img.resize">
+                <img class="d-block" width="1440" height="800" src="https://images.pexels.com/photos/933153/pexels-photo-933153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
             </div>
         </div>
         <a class="carousel-control-prev caroBtn" href="#carouselExampleControls" role="button" data-slide="prev">
