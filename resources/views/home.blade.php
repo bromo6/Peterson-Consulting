@@ -40,7 +40,7 @@
             </div>
             <div class="row miniText">
                 <!--MAIN COLUMN 1  ----------------------------------------->
-                <div class="col-3 main1">
+                <div class="col-lg-3 col-md-6 main1">
                     <div class="row">
                         <div class="col">
                             <div id="accordion">
@@ -82,7 +82,7 @@
                     </div>
                 </div>
                 <!--MAIN COLUMN 2  -------------------------------------------->
-                <div class="col-3 main2">
+                <div class="col-lg-3 col-md-6 main2">
                     <div class="row">
                         <div class="col">
                             <div id="accordion2">
@@ -124,7 +124,7 @@
                     </div>
                 </div>
                 <!--MINI COLUMN 3  ----------------------------------------->
-                <div class="col-3">
+                <div class="col-lg-3 col-md-6">
                     <div class="row">
                         <div class="col">
                             <div id="accordion3">
@@ -175,8 +175,8 @@
         </div>
     </div>
     <div class="row owlCaro my-5">
-        <div class="col-2"></div>
-        <div class="col-8 owl-carousel owl-one owl-theme">
+        <div class="col-md-2"></div>
+        <div class="col-md-8 owl-carousel owl-one owl-theme">
             <div>
                 <a href="http://www.ey.com/">
                     <img height="100" width="50" src="http://www.ey.com/ecimages/EY-logo-li.png" />
@@ -206,7 +206,7 @@
 
 
         </div>
-        <div class="col-2"></div>
+        <div class="col-md-2"></div>
     </div>
 
 @endsection @section('bottomjs')

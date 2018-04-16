@@ -4,7 +4,7 @@
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="<?php echo csrf_token() ?>"/>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -16,14 +16,14 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand navBack fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-8 navBack fixed-top">
         <a class="navbar-brand" href="/">
-            <img src="img/Peterson-Logo.png" />
+            <img src="img/Peterson-Logo1.png" />
         </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent10" aria-controls="navbarSupportedContent10" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent10">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
                     <a class="nav-link navText" href="/about">About Us <span class="sr-only">(current)</span></a>
@@ -46,7 +46,7 @@
                     <a class="footText btmContact" href="/contact">Contact Us</a>
                 </div>
             </div>
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col">
                     <p id="copy">&#169; Peterson Consulting Group</p>
                 </div>

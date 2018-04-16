@@ -18,13 +18,27 @@ NAVBAR
     color: #0e3443;
     font-weight: 600;
 }
+.navbar.navbar-8 .navbar-toggler-icon {
+    background-image: url('https://mdbootstrap.com/img/svg/hamburger4.svg?color=1729B0');
+}
 /*---------------------------
 -----------------------------
 HOME
 -----------------------------
 ---------------------------*/
+@media (max-width: 960px) {
+    .projectBack {
+        height: 1100px;
+    }
+}
+
+@media (min-width: 959px) {
+    .projectBack {
+        height: 570px;
+    }
+}
+
 .projectBack {
-    height: 570px;
     width: 100%;
     background: #0e3443;
     transform: skewY(3deg);
@@ -137,13 +151,13 @@ FOOTER
 .footText {
     color: white;
     font-size: 15px;
-    float: left;
+    /* float: left; */
 }
 #copy {
     margin-bottom: 15px;
 }
 .bottomPg {
-    margin-left: 613px;
+    /* margin-left: 613px; */
 }
 .btmHome, .btmAbout {
     margin-right: 7px;
