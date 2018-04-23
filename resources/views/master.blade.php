@@ -16,7 +16,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand navbar-8 navBack fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-8 navBack fixed-top">
         <a class="navbar-brand" href="/">
             <img src="img/Peterson-Logo1.png" />
         </a>
@@ -26,10 +26,10 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent10">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
-                    <a class="nav-link navText" href="/about">About Us <span class="sr-only">(current)</span></a>
+                    <a class="nav-link navText" href="/about">About<span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link navText" href="/contact">Contact Us</a>
+                    <a class="nav-link navText" href="/contact">Contact</a>
                 </li>
             </ul>
         </div>
