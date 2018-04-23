@@ -3,13 +3,13 @@
     <div id="carouselExampleControls" class="carousel slide " data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="d-block" width="1440" height="800" src="https://images.pexels.com/photos/886465/pexels-photo-886465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
+                <img class="d-block w-100" height="800" src="https://images.pexels.com/photos/886465/pexels-photo-886465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
             </div>
             <div class="carousel-item">
-                <img class="d-block" width="1440" height="800" src="https://images.pexels.com/photos/515169/pexels-photo-515169.jpeg?auto=compress&cs=tinysrgb&h=350">
+                <img class="d-block w-100" height="800" src="https://images.pexels.com/photos/541525/pexels-photo-541525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
             </div>
             <div class="carousel-item">
-                <img class="d-block" width="1440" height="800" src="https://images.pexels.com/photos/933153/pexels-photo-933153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
+                <img class="d-block w-100" height="800" src="https://images.pexels.com/photos/7103/writing-notes-idea-conference.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260">
             </div>
         </div>
         <a class="carousel-control-prev caroBtn" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -24,7 +24,7 @@
     <div id="type1"></div>
 </div>
 
-    <div class="row my-5 px-5">
+    <div class="row px-5" style="margin-top: -165px;">
         <div class="col text-center">
             <h1 style="margin-top:450px;">Title of paragraph</h1>
             <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti asperiores fuga quisquam consequuntur totam beatae dolorum consectetur enim sunt blanditiis ipsa dolores voluptatibus ea, reprehenderit, itaque dolor, molestias adipisci minima!</p>

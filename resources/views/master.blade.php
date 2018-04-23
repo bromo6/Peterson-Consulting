@@ -16,7 +16,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-8 navBack fixed-top">
+    <nav class="navbar navbar-expand navbar-8 navBack fixed-top">
         <a class="navbar-brand" href="/">
             <img src="img/Peterson-Logo1.png" />
         </a>
