@@ -26,8 +26,8 @@
 
     <div class="row px-5" style="margin-top: -165px;">
         <div class="col text-center">
-            <h1 style="margin-top:450px;">Title of paragraph</h1>
-            <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti asperiores fuga quisquam consequuntur totam beatae dolorum consectetur enim sunt blanditiis ipsa dolores voluptatibus ea, reprehenderit, itaque dolor, molestias adipisci minima!</p>
+            <h1 style="margin-top:450px;">Company Overview</h1>
+            <p class="text">Peterson Consulting Group serves the Client's Vision and Mission, by supporting the development and deployment of robust Strategies and Success Measures that results in a clear and prioritized winning Operating Plan.  This includes a Gap Analysis where skills gaps can be addressed with either specific functional or skill training (e.g. Sales/Communications training) or via hiring strategies.</p>
         </div>
     </div>
     <div class="row includingText">

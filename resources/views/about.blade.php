@@ -20,7 +20,7 @@
         <p>Daniel is a highly energitic, in-touch sales leader that has trained and developed hundreds of current business professionals. During his 34 years at Procter & Gamble he led large globalcustomer teams responsible for multi-millions in revenue. Successful sales leader in both CPG and Commercial B2B industries.</p>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-12 pl-5">
-        <img class="rounded-circle" height="300" width="300" src="img/dan-peterson.jpg" />
+        <img class="rounded-circle" height="300" width="300" src="img/dan-peterson1.png" />
     </div>
 </div>
 @endsection
